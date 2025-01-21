@@ -17,7 +17,9 @@ It's always a good idea to start with a general picture. The following is the da
 
 ![image](https://github.com/user-attachments/assets/40e016c4-349f-4d5a-ad06-285abedbeec4)
 
-Looks messy, isn't it? The general picture doesn't tell much, it's hard to see any patterns. However, after filtering by category, subcategory and season, the trend and seasonality becomes clearer.
+Looks messy, isn't it? The general picture doesn't tell much, it's hard to see any patterns.
+
+However, after filtering by category, subcategory and season, the trend and seasonality becomes clearer.
 
 ![image](https://github.com/user-attachments/assets/4dfd2bb4-3dd4-4c2e-a0f3-220812d774b7)
 
